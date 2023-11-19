@@ -1,3 +1,21 @@
 System Design - Pastebin
 ========================
+In this episode of Bite-Sized Interviews, it's just you, me, and
+a whiteboard as we dive into the design process of a pastebin.com clone. 🖥️✨ 
+Get ready to join me in breaking down the steps, diagram-style, as we bring
+this concept to life. Whether you're a seasoned coder or just starting out, 
+this walkthrough is tailored for everyone. No fancy guests, just us geeking 
+out over code and turning ideas into reality. Grab your favorite coding 
+beverage, hit play, and let's sketch out some tech brilliance together! 💻🎨
 
+## Youtube
+Watch full explanation of this episode on Youtube [here](https://www.youtube.com/watch?v=WjNdFldOoZA)
+
+[![View this episode on Youtube](https://img.youtube.com/vi/WjNdFldOoZA/0.jpg)](https://www.youtube.com/watch?v=WjNdFldOoZA)
+
+## Final Design
+Here's the final design that we sketch in the YouTube video above:
+
+[View diagram on diagrams.net / draw.io](https://viewer.diagrams.net/index.html?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=pastebin.drawio#R7Vtbc5s4FP41nm0e8IAAx36MHbe7s%2B02Hbfb7b5kZJCxaoFYIXzZX78SdxB27DYudrN5SNDR0YXv3HTQSc%2Bc%2BNs3DIbLd9RFpAd0d9sz73sAmLphij%2BSskspwLYyisewm9KMkjDD%2F6KMqGfUGLsoqjFySgnHYZ3o0CBADq%2FRIGN0U2dbUFJfNYQeUggzBxKV%2Bhm7fJlSh7Ze0n9F2FvmKxt61uPDnDkjREvo0k2FZE575oRRytMnfztBRKKX45KOe72nt9gYQwE%2FZoBraHS8gePP78MPi8CO%2FyajqQbSWdaQxNkL98CAiPnGLl6LR08%2B5qQFFStJqAllCfPgn5imDKaxACYYVkn1sVEIAwkC32XI5oxyUi1K5H4nGIxBuN0%2FyzwnfJpNJ3ez6SzvEK89bzILWrqqQk5fRCG3vPJlo6Cd6%2BfcsMaJl8B1%2FGDMafWlW2Ca061ECQdeitOcMhcxTZBFIx0UQtcV%2FRpBC54yAeQXvT5kHg40TsO0Tw%2B3zb455Zz6VTlk%2FZnEJZ1581emIXvARPw27eLR0m%2BKAYlQF9DHZJcOS1nE60A%2FTBXGtKRW7CKOfC3GSs%2BBMcijSHScNCigEmE9gkF0wqglImvEsQNPGAMZhmQ%2Fv9yBFiGGFwemCEOCCtiBjnz69VsROjC4lFTT%2FLK%2BOXRWHqNx4GoNDQB2KffG881%2B6yX4ZNU%2B2Z2cMtknIYf9tp0CFswj%2BUdEGsQiGVnlnIQ6K%2FGXShlytJVOEQaujNmI50xMUKgv9F9SA8QgR5KD4GBVWVNC8t0g7bPwPrClA7hIDEMoLP8X2YoZKfBbY7SRNL5M9V%2BMCCSiLxIvnGAV0GDn0%2FinAmGG2Bo76EgcOBN%2BKMUCkp1wx1Fue%2FIMWgBzLZFVP3TAeQYX%2BU5YzTLxO2scYZ7MB58wIkGU8CnEJzlBbbsgcYYibnKfCIIh9YUzukKT7MgolFlwjheYkAYJEuwFoplCPF4jJuMuucvIPnZduch4s8QczULoyBU3IvUStCREIXnY14tNyQnQdm%2FCYBRpiEjgEPURZxKxbIAm8rd0TJa8aaOsvSkzoYGV0ZaVLCgfB7PkyyvmLvMT8ZClKCekK6aSrtxTJ%2FZRciIv7KkhjjowbdBVJJVLwEn89PMAadh1HE2g4miAFhwH58LRUnC8q3iViwXSHl4akPZ1KuSggaPZNY6GraCEXA%2FNsiZlfEk9KnR0WlIbHq%2FkeUtlEErQ%2B4o432VflZIoWMM2XVMudBhIsS8aMwcdeIFB9m1KRDrED72o1S4ZhgjkeF3fyLPDDF4MzMMuYR5cp1e4bXgFq2uvcHulYWp0ae4VDK7c7ofH2v2oS7sfXqe%2BDvRLM3wDdKGvAi62%2B0uO79t580s2XdK439Zau14113oWPR8dqeeDLtU8v9T7XzqH%2FEBX0hmpTujhN0F4AznawF1xicTy7xevUN%2FrC4aPDKIFXt1cnoMyGwn0oHP%2FZCggvQwLyK%2FlnzSBTuMweKkO6mjxANBpANEVHzUhOEmPLt31iODXufPp5DBfandNt0tV%2FwHabV1D%2FDXUj6vvIk8QPsQoRvvD7%2B9wsYJq8KUxJzhAk6K%2BSYLqwmhZCDO%2FJXgL54g80AhzTKUZ5NctyjVCckejWkv1vmIJQ7m%2Bv%2FVkXVcfbiKz%2F0%2By%2F%2Fq9RQ%2BY96O7W0sOEqyuNOLGncZzGOHotmaEpgUUG7w1%2B7ZqhNbwXFJWc738G0%2BS6314q0gyvQTKq8jAYcQXhG6cJWS870IO5zBCe%2FzfOZxe4zO7rasub9ji8YZn83gtZ9pqYn3VYBc3aJeCNlCj8%2Fv5V%2Bl8BNScMlkxudeLzUzVhV2PLKymLFpuPIsKz6owCuLzS8PqJNpvMa8cZUXrS6WnDPWycYZID8CRkb5SSdtFngEUS5nc%2F6HIq%2FNDrN28yLe7PsMCNXxO10nslJUdTefSrIXJI%2B2fsrQDuclIBfXvr8IoRNBtHYZpgn5%2BcZcJ0GpJQoBuqgI8WyUGaP3MFKmyO7bUuCJte%2Fxm%2BrFniznF7l%2FDEIvfa0M%2BlkH%2FdaETaZ12phGPYtN5R71mupheHMMTdB8gg37Lho1%2BokciAj2KCNQS6oBkQIGbdf%2BsanfbvMWybFXnfmz1j3owOb%2FOueWp%2Ftt17rSq%2B9q2Ht7PntrXz6qBGmgcx8yWD78%2FWAUNRQUrghDnlTlp8RjfJnypVmIhJk%2FDr4IblSEyH1do9wQTxzwpo6%2FyNBTmqRNJFKZfHhZ4K8V7liOKVvyfVB7i2mTddkYpiM8vbPV4V9h8EooifB6hz7GHk1oReTDHgcNQWjvSZK55oINa4Mty2MdqVDvIntTMRo%2BOsGhe2c8F6k0zSlnDM6qNaJb%2Fr5f0Vf7t0Zz%2BBw%3D%3D)
+
+![pastebin.png](pastebin.png)
