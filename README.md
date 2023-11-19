@@ -21,6 +21,9 @@ design of sample, real-world applications that handle millions of users.
 * **Important Interview Questions**: Prepare for the most common system design interview
 questions and learn how to approach them.
 
+## Table of contents
+* [System Design Session - Pastebin](sessions/pastebin.md)
+
 ## How to Contribute
 We love collaboration! If you have suggestions, ideas, or want to contribute to the conversation, feel free to:
 
